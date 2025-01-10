@@ -2,7 +2,7 @@ package com.sx.sxrpc.server;
 
 import io.vertx.core.Vertx;
 
-public class VertxHeepServer implements HttpServer {
+public class VertxHttpServer implements HttpServer {
     /**
      * 启动服务器
      *

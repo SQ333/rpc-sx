@@ -1,0 +1,4 @@
+failFast=com.sx.fault.tolerant.FailFastTolerantStrategy
+failBack=com.sx.fault.tolerant.FailBackTolerantStrategy
+failOver=com.sx.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.sx.fault.tolerant.FailSafeTolerantStrategy

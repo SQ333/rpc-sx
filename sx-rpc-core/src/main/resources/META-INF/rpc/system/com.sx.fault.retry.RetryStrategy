@@ -1,0 +1,2 @@
+no=com.sx.fault.retry.NoRetryStrategy
+fixedInterval=com.sx.fault.retry.FixedIntervalRetryStrategy
