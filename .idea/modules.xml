@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-common/example-common.iml" filepath="$PROJECT_DIR$/example-common/example-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-consumer/example-consumer.iml" filepath="$PROJECT_DIR$/example-consumer/example-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-provider/example-provider.iml" filepath="$PROJECT_DIR$/example-provider/example-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rpc-sx.iml" filepath="$PROJECT_DIR$/.idea/rpc-sx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sx-rpc-core/sx-rpc-core.iml" filepath="$PROJECT_DIR$/sx-rpc-core/sx-rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sx-rpc-easy/sx-rpc-easy.iml" filepath="$PROJECT_DIR$/sx-rpc-easy/sx-rpc-easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sx-rpc-spring-boot-starter/sx-rpc-spring-boot-starter.iml" filepath="$PROJECT_DIR$/sx-rpc-spring-boot-starter/sx-rpc-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>
